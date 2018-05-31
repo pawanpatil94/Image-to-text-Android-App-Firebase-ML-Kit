@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "502267667551",
+    "firebase_url": "https://kanndatoenglish.firebaseio.com",
+    "project_id": "kanndatoenglish",
+    "storage_bucket": "kanndatoenglish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502267667551:android:4e4a044b49f910c7",
+        "android_client_info": {
+          "package_name": "com.example.pawan.kannadatoenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502267667551-s8er68cf0f1nqip8kf62kpjuvi1bbpim.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "502267667551-s8er68cf0f1nqip8kf62kpjuvi1bbpim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIf_ElEraxycvViWk_zZUYfadPb0rQzd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
